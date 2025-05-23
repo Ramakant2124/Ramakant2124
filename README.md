@@ -26,11 +26,11 @@ ________________________________________________________________________________
 
 <br>
 </br>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ramakant2124&show_icons=true&locale=en&layout=compact" alt="ramakant2124" /></p>
+<p align="center"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ramakant2124&show_icons=true&locale=en&layout=compact" alt="ramakant2124" /></p>
 
 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ramakant2124&" alt="ramakant2124" /></p>
+
 <p align="center">
 Thank you for taking the time to explore my work and projects. Your interest is truly appreciated. If you have any questions, suggestions, or opportunities for collaboration, please don't hesitate to reach out. I'm always open to connecting with fellow developers, sharing knowledge, and contributing to meaningful projects.
 </p>
