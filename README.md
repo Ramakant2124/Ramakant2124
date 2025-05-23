@@ -34,4 +34,5 @@ ________________________________________________________________________________
 <p align="center">
 Thank you for taking the time to explore my work and projects. Your interest is truly appreciated. If you have any questions, suggestions, or opportunities for collaboration, please don't hesitate to reach out. I'm always open to connecting with fellow developers, sharing knowledge, and contributing to meaningful projects.
 </p>
-                                                                ![image](https://github.com/user-attachments/assets/8e0537f0-5673-4e95-87a5-0f4d9e7f6abf)
+                                                                ![thanks-thanks-alot](https://github.com/user-attachments/assets/b4849428-687f-4e8e-b825-92675eceac9a)
+
