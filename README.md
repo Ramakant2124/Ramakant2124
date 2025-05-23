@@ -1,7 +1,9 @@
 ![github-header-image (2)](https://github.com/user-attachments/assets/886dd86a-dcc2-462b-b8c6-f983d3b9dc0b)
 
 _____________________________________________________________________________________________________________________________________________________________________________________________________________________
-<h1 align="center">Hi!I'm Ramakant Chaudhari</h>
+<h1 align="center">
+  <div class="tenor-gif-embed" data-postid="12445355" data-share-method="host" data-aspect-ratio="1.12324" data-width="100%"><a href="https://tenor.com/view/pic-chipmunks-dale-hello-gif-12445355">Pic Chipmunks GIF</a>from <a href="https://tenor.com/search/pic-gifs">Pic GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+  Hi!I'm Ramakant Chaudhari</h>
 
 <h3 align="center">A passionate frontend developer from India</h3>
 <p align="center">I'm a passionate Python Django Developer with a strong foundation in backend development and a focus on building scalable, maintainable web applications. With a keen interest in clean code practices and continuous learning, I strive to deliver high-quality software solutions.</p>
