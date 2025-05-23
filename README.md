@@ -4,8 +4,17 @@ ________________________________________________________________________________
 <h1 align="center">Hi 👋, I'm Ramakant Chaudhari</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ramakant2124&label=Profile%20views&color=0e75b6&style=flat" alt="ramakant2124" /> </p>
+
+- 🔭 I’m currently working on **Portfolio Website**
+
+- 🌱 I’m currently learning **Django Framework and React Framework**
+
+- 📫 How to reach me **chaudhariramakant754@gmail.com**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://linkedin.com/in/ramakantchaudhari482124" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ramakantchaudhari482124" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
