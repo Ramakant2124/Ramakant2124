@@ -3,7 +3,7 @@
 _____________________________________________________________________________________________________________________________________________________________________________________________________________________
 
 
-![image](https://github.com/user-attachments/assets/fa321444-bc4c-4061-a774-d441b9482108)<h1 align="center">I'm Ramakant Chaudhari</h>
+                                                     ![image](https://github.com/user-attachments/assets/fa321444-bc4c-4061-a774-d441b9482108)<h1 align="center">I'm Ramakant Chaudhari</h>
 
 <h3 align="center">A passionate frontend developer from India</h3>
 <p align="center">I'm a passionate Python Django Developer with a strong foundation in backend development and a focus on building scalable, maintainable web applications. With a keen interest in clean code practices and continuous learning, I strive to deliver high-quality software solutions.</p>
@@ -34,5 +34,5 @@ ________________________________________________________________________________
 <p align="center">
 Thank you for taking the time to explore my work and projects. Your interest is truly appreciated. If you have any questions, suggestions, or opportunities for collaboration, please don't hesitate to reach out. I'm always open to connecting with fellow developers, sharing knowledge, and contributing to meaningful projects.
 </p>
-![thanks-thanks-alot](https://github.com/user-attachments/assets/b4849428-687f-4e8e-b825-92675eceac9a)
+
 
