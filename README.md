@@ -1,8 +1,9 @@
 ![github-header-image (2)](https://github.com/user-attachments/assets/886dd86a-dcc2-462b-b8c6-f983d3b9dc0b)
 
 _____________________________________________________________________________________________________________________________________________________________________________________________________________________
+![b440fe8b087416820258b711b91ca18a](https://github.com/user-attachments/assets/4ca489ed-0ff9-49e1-a287-325432496b53)
+
 <h1 align="center">
-  ![b440fe8b087416820258b711b91ca18a](https://github.com/user-attachments/assets/1751f625-af4b-4daf-9b78-038f33f3459c)
   Hi!I'm Ramakant Chaudhari</h>
 
 <h3 align="center">A passionate frontend developer from India</h3>
