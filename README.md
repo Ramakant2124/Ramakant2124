@@ -36,9 +36,7 @@ ________________________________________________________________________________
 <p align="center">
 Thank you for taking the time to explore my work and projects. Your interest is truly appreciated. If you have any questions, suggestions, or opportunities for collaboration, please don't hesitate to reach out. I'm always open to connecting with fellow developers, sharing knowledge, and contributing to meaningful projects.
 </p>
-<p align="center">
-    <img width="200" src="[https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.textstudio.com%2Fevent-logos%2Fanimated%2Fthank-you-9441&psig=AOvVaw2RVHgzFB1zFJ7ouPA2dv0y&ust=1748176580958000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCIjpqbKPvI0DFQAAAAAdAAAAABAL](https://data.textstudio.com/output/sample/animated/1/4/4/9/thank-you-1-9441.gif)" alt="Material Bread logo">
-</p>
+
 ![thanks-thanks-alot](https://github.com/user-attachments/assets/a15ae087-3c28-4686-b5a9-6654b0dc143d)
 
 
