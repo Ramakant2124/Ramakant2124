@@ -4,7 +4,7 @@
 
 _____________________________________________________________________________________________________________________________________________________________________________________________________________________
 
-<h1 align="center"><img src="https://media.tenor.com/5kYwzV2zxxkAAAAM/hello-hey.gif" alt="Hello GIF" height="20" width="20" />I'm Ramakant Chaudhari</h>
+<h1 align="center"><img src="https://media.tenor.com/5kYwzV2zxxkAAAAM/hello-hey.gif" alt="Hello GIF" height="50" width="50" />I'm Ramakant Chaudhari</h>
 
 <h3 align="center">A passionate frontend developer from India</h3>
 <p align="center">I'm a passionate Python Django Developer with a strong foundation in backend development and a focus on building scalable, maintainable web applications. With a keen interest in clean code practices and continuous learning, I strive to deliver high-quality software solutions.</p>
