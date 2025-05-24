@@ -36,8 +36,9 @@ ________________________________________________________________________________
 <p align="center">
 Thank you for taking the time to explore my work and projects. Your interest is truly appreciated. If you have any questions, suggestions, or opportunities for collaboration, please don't hesitate to reach out. I'm always open to connecting with fellow developers, sharing knowledge, and contributing to meaningful projects.
 </p>
-![thankyou-piglet](https://github.com/user-attachments/assets/b7703763-5c28-4445-b119-42cdc5919560)
-![thankyou-piglet](https://github.com/user-attachments/assets/d6ebdd15-c72c-4373-a621-2e3529e1169e)
+
+![thanks-thanks-alot](https://github.com/user-attachments/assets/a15ae087-3c28-4686-b5a9-6654b0dc143d)
+
 
 
 
