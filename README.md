@@ -36,7 +36,9 @@ ________________________________________________________________________________
 <p align="center">
 Thank you for taking the time to explore my work and projects. Your interest is truly appreciated. If you have any questions, suggestions, or opportunities for collaboration, please don't hesitate to reach out. I'm always open to connecting with fellow developers, sharing knowledge, and contributing to meaningful projects.
 </p>
-
+<p align="center">
+    <img width="200" src=""C:\Users\Victus\OneDrive\Desktop\thanks-thanks-alot.gif"" alt="Material Bread logo">
+</p>
 ![thanks-thanks-alot](https://github.com/user-attachments/assets/a15ae087-3c28-4686-b5a9-6654b0dc143d)
 
 
