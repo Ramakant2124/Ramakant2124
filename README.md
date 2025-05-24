@@ -6,7 +6,7 @@ ________________________________________________________________________________
 
 <h1 align="center"><img src="https://media.tenor.com/5kYwzV2zxxkAAAAM/hello-hey.gif" alt="Hello GIF" height="80" width="80" />    I'm Ramakant Chaudhari</h>
 
-<h3 align="center">A passionate frontend developer from India</h3>
+<h2 align="center">A Passionate Python FullStack Developer From India</h2>
 <p align="center">I'm a passionate Python Django Developer with a strong foundation in backend development and a focus on building scalable, maintainable web applications. With a keen interest in clean code practices and continuous learning, I strive to deliver high-quality software solutions.</p>
 <p align="center">I'm a passionate HTML & CSS Developer dedicated to crafting responsive, accessible, and visually appealing web experiences. With a keen eye for design and a commitment to clean code, I strive to build websites that are both functional and aesthetically pleasing.</p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ramakant2124&label=Profile%20views&color=0e75b6&style=flat" alt="ramakant2124" /> </p>
