@@ -46,9 +46,3 @@ Thank you for taking the time to explore my work and projects. Your interest is 
 
 
 
-Puller
-
-
-
-
-
