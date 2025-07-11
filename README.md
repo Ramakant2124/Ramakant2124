@@ -46,8 +46,8 @@ Thank you for taking the time to explore my work and projects. Your interest is 
 
 
 
+Puller
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 
