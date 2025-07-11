@@ -46,7 +46,4 @@ Thank you for taking the time to explore my work and projects. Your interest is 
 
 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Ramakant2124)](https://github.com/Ramakant2124)
-
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=Ramakant2124)]
+[![trophy](https://github-profile-trophy.vercel.app/
