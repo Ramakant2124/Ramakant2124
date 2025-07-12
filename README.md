@@ -32,9 +32,12 @@ ________________________________________________________________________________
 <br>
 </br>
 
-## 🏆GitHub Trophies
 <div align="center">
+
+  <h2>🏆 GitHub Trophies</h2>
+
   <img src="https://github-trophies.vercel.app/?username=Ramakant2124&theme=algolia&no-frame=false&no-bg=false&margin-w=4" alt="GitHub Trophies">
+
 </div>
 
 
