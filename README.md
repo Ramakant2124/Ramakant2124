@@ -23,7 +23,7 @@ ________________________________________________________________________________
   
 
 
-<h2 align="center">🌐 **Connect with Me**</h2> 
+<h2 align="center">🌐 Connect with Me</h2> 
 <p align="center"> <a href="mailto:chaudhariramakant754@gmail.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/gmail-new.png" alt="Gmail" title="Email" width="60" height="60" style="margin: 10px;" /> </a>
 <a href="https://linkedin.com/in/ramakantchaudhari482124" target="_blank"> <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" title="LinkedIn" width="60" height="60" style="margin: 10px;" /> </a>
 <a href="https://instagram.com/mr_ramakant_3715" target="_blank"> <img src="https://img.icons8.com/fluency/48/000000/instagram-new.png" alt="Instagram" title="Instagram" width="60" height="60" style="margin: 10px;" /> </a> 
