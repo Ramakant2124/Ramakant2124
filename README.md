@@ -34,8 +34,9 @@ ________________________________________________________________________________
 
 ## 🏆GitHub Trophies
 <div align="center">
-  <img src="https://github-trophies.vercel.app/?username=Ramakant2124&theme=darkhub&no-frame=false&no-bg=false&margin-w=4" alt="GitHub Trophies">
+  <img src="https://github-trophies.vercel.app/?username=Ramakant2124&theme=algolia&no-frame=false&no-bg=false&margin-w=4" alt="GitHub Trophies">
 </div>
+
 
 
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ramakant2124&show_icons=true&locale=en&layout=compact" alt="ramakant2124" /></p><br></br>
