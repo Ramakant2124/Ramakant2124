@@ -20,7 +20,7 @@ ________________________________________________________________________________
 - 🌱 I’m currently learning **Django Framework and React Framework**
 
 - 📫 How to reach me **chaudhariramakant754@gmail.com**
-  __________________________________________________________________________________________________________________________________________________________________
+  ________________________________________________________________________________________________________________________________________________________________
 <h2 align="center">Connect with me:</h2>
 <p align="center">
 <a href="https://linkedin.com/in/ramakantchaudhari482124" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ramakantchaudhari482124" height="50" width="60" /></a>
