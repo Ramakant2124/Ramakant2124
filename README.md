@@ -31,12 +31,14 @@ ________________________________________________________________________________
 
 <br>
 </br>
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ramakant2124&show_icons=true&locale=en&layout=compact" alt="ramakant2124" /></p><br></br>
 
-<p align="center">
 ## 🏆GitHub Trophies
 ![](https://github-trophies.vercel.app/?username=Ramakant2124&theme=darkhub&no-frame=false&no-bg=false&margin-w=4)
-</p>
+
+
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ramakant2124&show_icons=true&locale=en&layout=compact" alt="ramakant2124" /></p><br></br>
+
+
 
 
 <p align="center">
