@@ -22,7 +22,7 @@ ________________________________________________________________________________
 - 📫 How to reach me **chaudhariramakant754@gmail.com**
   
 <h2 align="center">Connect with me:</h2>
-<p align="center"></a>
+<p align="center">
 <a href="mailto:chaudhariramakant754@gmail.com" target="blank"> <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="ramakant3715@gmail.com" height="50" width="60" /></a>  
 <a href="https://linkedin.com/in/ramakantchaudhari482124" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ramakantchaudhari482124" height="50" width="60" /></a>
 <a href="https://instagram.com/mr_ramakant_3715" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mr_ramakant_3715" height="50" width="60" /></a>
