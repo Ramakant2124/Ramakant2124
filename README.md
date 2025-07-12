@@ -31,6 +31,8 @@ ________________________________________________________________________________
 
 </p>
 
+<h2 align="center">🌐 Connect with Me</h2> <p align="center"> <a href="mailto:chaudhariramakant754@gmail.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/gmail-new.png" alt="Gmail" title="Email" width="50" height="50" style="margin: 10px;" /> </a> <a href="https://linkedin.com/in/ramakantchaudhari482124" target="_blank"> <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" title="LinkedIn" width="50" height="50" style="margin: 10px;" /> </a> <a href="https://instagram.com/mr_ramakant_3715" target="_blank"> <img src="https://img.icons8.com/fluency/48/000000/instagram-new.png" alt="Instagram" title="Instagram" width="50" height="50" style="margin: 10px;" /> </a> <a href="https://fb.com/ramakant.chaudhari.7547" target="_blank"> <img src="https://img.icons8.com/color/48/000000/facebook-new.png" alt="Facebook" title="Facebook" width="50" height="50" style="margin: 10px;" /> </a> <a href="https://github.com/Ramakant2124" target="_blank"> <img src="https://img.icons8.com/ios-glyphs/48/000000/github.png" alt="GitHub" title="GitHub" width="50" height="50" style="margin: 10px;" /> </a> </p>
+
 <br></br>
   
 
