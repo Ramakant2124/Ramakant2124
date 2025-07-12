@@ -21,17 +21,13 @@ ________________________________________________________________________________
 
 - 📫 How to reach me **chaudhariramakant754@gmail.com**
   
-<h2 align="center">Connect with me:</h2>
-<p align="center">
-<a href="mailto:chaudhariramakant754@gmail.com" target="blank"> <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" alt="chaudhariramakant754@gmail.com" height="70" width="60" /></a>
-<a href="https://linkedin.com/in/ramakantchaudhari482124" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ramakantchaudhari482124" height="50" width="60" /></a>
-<a href="https://instagram.com/mr_ramakant_3715" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mr_ramakant_3715" height="50" width="60" /></a>
-<a href="https://fb.com/ramakant.chaudhari.7547" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ramakant.chaudhari.7547" height="50" width="60" /></a>
- <a href="https://github.com/Ramakant2124" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="Ramakant2124" height="50" width="60" /></a>
 
-</p>
 
-<h2 align="center">🌐 Connect with Me</h2> <p align="center"> <a href="mailto:chaudhariramakant754@gmail.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/gmail-new.png" alt="Gmail" title="Email" width="50" height="50" style="margin: 10px;" /> </a> <a href="https://linkedin.com/in/ramakantchaudhari482124" target="_blank"> <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" title="LinkedIn" width="50" height="50" style="margin: 10px;" /> </a> <a href="https://instagram.com/mr_ramakant_3715" target="_blank"> <img src="https://img.icons8.com/fluency/48/000000/instagram-new.png" alt="Instagram" title="Instagram" width="50" height="50" style="margin: 10px;" /> </a> <a href="https://fb.com/ramakant.chaudhari.7547" target="_blank"> <img src="https://img.icons8.com/color/48/000000/facebook-new.png" alt="Facebook" title="Facebook" width="50" height="50" style="margin: 10px;" /> </a> <a href="https://github.com/Ramakant2124" target="_blank"> <img src="https://img.icons8.com/ios-glyphs/48/000000/github.png" alt="GitHub" title="GitHub" width="50" height="50" style="margin: 10px;" /> </a> </p>
+<h2 align="center">🌐 Connect with Me</h2> 
+<p align="center"> <a href="mailto:chaudhariramakant754@gmail.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/gmail-new.png" alt="Gmail" title="Email" width="70" height="70" style="margin: 10px;" /> </a>
+<a href="https://linkedin.com/in/ramakantchaudhari482124" target="_blank"> <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" title="LinkedIn" width="50" height="50" style="margin: 10px;" /> </a>
+<a href="https://instagram.com/mr_ramakant_3715" target="_blank"> <img src="https://img.icons8.com/fluency/48/000000/instagram-new.png" alt="Instagram" title="Instagram" width="50" height="50" style="margin: 10px;" /> </a> 
+<a href="https://fb.com/ramakant.chaudhari.7547" target="_blank"> <img src="https://img.icons8.com/color/48/000000/facebook-new.png" alt="Facebook" title="Facebook" width="50" height="50" style="margin: 10px;" /> </a> <a href="https://github.com/Ramakant2124" target="_blank"> <img src="https://img.icons8.com/ios-glyphs/48/000000/github.png" alt="GitHub" title="GitHub" width="50" height="50" style="margin: 10px;" /> </a> </p>
 
 <br></br>
   
