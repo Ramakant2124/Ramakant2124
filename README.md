@@ -47,6 +47,6 @@ Thank you for taking the time to explore my work and projects. Your interest is 
 
 
 
-<h2 align="center">🏆 Gɪᴛʜᴜʙ Tʀᴏᴘʜɪᴇs 🏆</h2>
+## 🏆GitHub Trophies
 ![](https://github-trophies.vercel.app/?username=Ramakant2124&theme=dracula&no-frame=true&no-bg=true&margin-w=4)
 
