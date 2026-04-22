@@ -64,5 +64,5 @@ Thank you for taking the time to explore my work and projects. Your interest is 
   <img src="https://drive.google.com/uc?export=view&id=1-9Yid2o1dyn40-iWIet5pzUUjeF_G7Pd" alt="Thanks a lot GIF" />
 </p>
 
-
+https://drive.google.com/uc?export=view&id=1-9Yid2o1dyn40-iWIet5pzUUjeF_G7Pd
 
