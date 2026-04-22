@@ -61,9 +61,8 @@ Thank you for taking the time to explore my work and projects. Your interest is 
 </p>
 
 <p align="center">
-  <img src="https://drive.google.com/file/d/1-9Yid2o1dyn40-iWIet5pzUUjeF_G7Pd/view?usp=sharing" alt="Thanks a lot GIF" />
+  <img src="https://drive.google.com/uc?export=view&id=1-9Yid2o1dyn40-iWIet5pzUUjeF_G7Pd" alt="Thanks a lot GIF" />
 </p>
-
 
 
 
