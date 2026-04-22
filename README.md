@@ -48,10 +48,18 @@ ________________________________________________________________________________
   <img src="https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&width=500&lines=Full+Stack+Developer;Learning+Every+Day+🔥;Building+Real+Projects+🚀" />
 </p>
 
+<h2 align="center">🚀 Languages & Tools</h2>
+
 <p align="center">
-  <img src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif" width="60"/>
-  <img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="60"/>
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="60"/>
+  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,python,django,mysql,git,react" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&width=500&lines=Building+Modern+Web+Apps;Full+Stack+Developer;Always+Learning+🔥" />
+</p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif" width="80"/>
 </p>
 <br>
 </br>
