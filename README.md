@@ -61,6 +61,23 @@ ________________________________________________________________________________
 <p align="center">
   <img src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif" width="80"/>
 </p>
+
+<h2 align="center">🚀 Skills</h2>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html" width="60"/>
+  <img src="https://skillicons.dev/icons?i=css" width="60"/>
+  <img src="https://skillicons.dev/icons?i=js" width="60"/>
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python" width="60"/>
+  <img src="https://skillicons.dev/icons?i=django" width="60"/>
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react" width="60"/>
+</p>
 <br>
 </br>
 
