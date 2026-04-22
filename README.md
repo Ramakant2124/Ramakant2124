@@ -60,7 +60,10 @@ Thank you for taking the time to explore my work and projects. Your interest is 
   <img src="https://media.tenor.com/s62iXGOChw8AAAAM/thanks-thanks-alot.gif" alt="Thanks a lot GIF" />
 </p>
 
+<p align="center">
+  <img src="C:\Users\Victus\Downloads\ScreenRecording2026-04-22223340-ezgif.com-optimize.gif" alt="Thanks a lot GIF" />
+</p>
 
 
-
+""
 
