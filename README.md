@@ -98,9 +98,15 @@ Thank you for taking the time to explore my work and projects. Your interest is 
 <p align="center">
   <img src="https://media.tenor.com/s62iXGOChw8AAAAM/thanks-thanks-alot.gif" alt="Thanks a lot GIF" />
 </p>
- <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&width=100"/>
-
+ <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&width=100%"/>
 
 <p align="center">
-  <img src="./docs/img/system_access_title.svg" width="100%" />
+
+<a href="https://hirademami.github.io/">
+  <img width="48%" src="https://capsule-render.vercel.app/api?type=rect&color=0:020617,25:0f172a,50:020617,75:0f172a,100:020617&height=400&section=header&text=Hirad%20System&desc=Projects%20|%20Blogs%20|%20Labs%20|%20Info&fontColor=3ddcff&descAlignY=70&fontSize=60&descSize=30&animation=twinkling" />
+</a>
+<a href="https://hirademami.github.io/neural-lab/index.html">
+  <img width="48%" src="https://capsule-render.vercel.app/api?type=rect&color=0:020617,25:0f172a,50:020617,75:0f172a,100:020617&height=400&section=header&text=NEURAL%20LAB&desc=Neural%20Visualization%20Environment&fontColor=b794ff&descAlignY=70&fontSize=60&descSize=30&animation=twinkling" />
+</a>
+
 </p>
