@@ -53,7 +53,7 @@
          alt="GitHub" title="GitHub" width="48" height="48"/>
   </a>
 
-</p>le="GitHub" width="60" height="60" style="margin: 10px;" /> </a> </p>
+</p>
 
 <br></br>
   
