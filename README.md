@@ -17,13 +17,15 @@
 <p align="center">I'm a passionate HTML & CSS Developer dedicated to crafting responsive, accessible, and visually appealing web experiences. With a keen eye for design and a commitment to clean code, I strive to build websites that are both functional and aesthetically pleasing.</p>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=ramakant2124&label=Profile%20views&color=0e75b6&style=flat" alt="ramakant2124" /> </p>
 
+[![divider_moving_neon_gradient](https://raw.githubusercontent.com/Ramakant2124/readme-ux-kit/main/assets/dividers/animated/unique_effects/divider_cyber_cycle_mirrored.svg)](https://github.com/Ramakant2124/Ramakant2124)
+
 - 🔭 **Portfolio Website** http://stately-paletas-154e38.netlify.app
 
 - 🌱 I’m currently learning **Django Framework and React Framework**
 
 - 📫 How to reach me **chaudhariramakant754@gmail.com**
   
-[![divider_moving_neon_gradient](https://raw.githubusercontent.com/Ramakant2124/readme-ux-kit/main/assets/dividers/animated/unique_effects/divider_cyber_cycle_mirrored.svg)](https://github.com/Ramakant2124/Ramakant2124)
+
 
 
 <h2 align="center">🌐 Connect with Me 🌐</h2>
