@@ -28,9 +28,10 @@
 
 <p align="center">
   <img 
-    src="https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&width=900&fontSize=60&lines=🌐+Connect+with+Me+🌐"
+    src="https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&width=900&fontSize=100&color=000000&lines=🌐+Connect+with+Me+🌐"
     style="max-width:100%;"
   />
+</p>
 <h2 align="center">🌐 Connect with Me</h2>
 
 <p align="center" style="display: flex; justify-content: center; gap: 15px; flex-wrap: wrap;">
