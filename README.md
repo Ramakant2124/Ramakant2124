@@ -23,8 +23,7 @@
 
 - 📫 How to reach me **chaudhariramakant754@gmail.com**
   
-
-[![divider_twin_serpant](https://raw.githubusercontent.com/Ramakant2124/readme-ux-kit/main/assets/dividers/animated/unique_effects/divider_dual_energy_tracks.svg)](https://github.com/Ramakant2124/Ramakant2124)
+[![divider_moving_neon_gradient](https://raw.githubusercontent.com/Ramakant2124/readme-ux-kit/main/assets/dividers/animated/unique_effects/divider_cyber_cycle_mirrored.svg)](https://github.com/Ramakant2124/Ramakant2124)
 <h2 align="center">🌐 Connect with Me</h2> 
 <p align="center"> <a href="mailto:chaudhariramakant754@gmail.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/gmail-new.png" alt="Gmail" title="Email" width="60" height="60" style="margin: 10px;" /> </a>
 <a href="https://linkedin.com/in/ramakantchaudhari482124" target="_blank"> <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" title="LinkedIn" width="60" height="60" style="margin: 10px;" /> </a>
