@@ -98,8 +98,9 @@ Thank you for taking the time to explore my work and projects. Your interest is 
 <p align="center">
   <img src="https://media.tenor.com/s62iXGOChw8AAAAM/thanks-thanks-alot.gif" alt="Thanks a lot GIF" />
 </p>
-
-
-
-
  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&width=100"/>
+
+
+<p align="center">
+  <img src="./docs/img/system_access_title.svg" width="100%" />
+</p>
