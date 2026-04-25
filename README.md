@@ -95,4 +95,4 @@ Thank you for taking the time to explore my work and projects. Your interest is 
 
 
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4FACFE,100:00F2FE&height=80&section=footer" width="100%"/>
+ <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&width=100"/>
