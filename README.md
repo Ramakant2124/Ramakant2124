@@ -93,13 +93,5 @@ Thank you for taking the time to explore my work and projects. Your interest is 
 
 
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7DA7D9,100:66C2D7&height=90&section=header" width="100%"/>
-</p>
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6FA8DC,100:5BC0DE&height=80&section=header" width="100%"/>
-</p>
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:AED6F1,100:76D7C4&height=85&section=header" width="100%"/>
-</p>
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6FA8DC,100:5BC0DE&height=80&section=footer" width="100%"/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4FACFE,100:00F2FE&height=80&section=footer" width="100%"/>
