@@ -71,7 +71,8 @@
 <!-- Data Science / AI Tools -->
 <p align="center">
   <strong>Data Science & AI</strong><br/>
-  <img src="https://skillicons.dev/icons?i=pandas,numpy,jupyter" />
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,vscode" /><br/>
+  🧠 Pandas • NumPy • Jupyter Notebook
 </p>
 
 <!-- Tools & Platforms -->
