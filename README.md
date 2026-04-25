@@ -104,7 +104,7 @@ Thank you for taking the time to explore my work and projects. Your interest is 
 <p align="center">
   <img src="https://media.tenor.com/s62iXGOChw8AAAAM/thanks-thanks-alot.gif" alt="Thanks a lot GIF" />
 </p>
-[![divider](https://raw.githubusercontent.com/Ramakant2124/readme-ux-kit/main/assets/dividers/animated/unique_effects/divider_data_capsul.svg)](https://github.com/Ramakant2124)
+[![divider_data_capsul](https://raw.githubusercontent.com/Ramakant2124/readme-ux-kit/main/dividers/animated/unique_effects/divider_data_capsul.svg)](https://github.com/Ramakant2124/Ramakant2124)
 <img 
   src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"
   width="100%"
