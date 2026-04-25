@@ -61,23 +61,25 @@
 [![divider_twin_serpant](https://raw.githubusercontent.com/Ramakant2124/readme-ux-kit/main/assets/dividers/animated/unique_effects/divider_dual_energy_tracks.svg)](https://github.com/Ramakant2124/Ramakant2124)
 
 <h2 align="center">🚀 Languages</h2>
+<marquee direction="right">
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,js,ts,html,css" />
 </p>
+</marquee>
 
-<h2 align="center">🧩 Frameworks & Libraries</h2>
-
+    <h2 align="center">🧩 Frameworks & Libraries</h2>
+<marquee direction="left">
 <p align="center">
   <img src="https://skillicons.dev/icons?i=django,flask,fastapi,react,tailwind,bootstrap,pytorch" />
 </p>
-
+</marquee>
 <h2 align="center">🛠️ Tools & Platforms</h2>
-
+<marquee direction="right">
 <p align="center">
   <img src="https://skillicons.dev/icons?i=git,github,vscode,pycharm,aws" />
 </p>
-
+</marquee>
 
 [![divider_twin_serpant](https://raw.githubusercontent.com/Ramakant2124/readme-ux-kit/main/assets/dividers/animated/unique_effects/divider_dual_energy_tracks.svg)](https://github.com/Ramakant2124/Ramakant2124)
 
