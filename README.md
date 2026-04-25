@@ -58,6 +58,8 @@
 
 [![divider_data_capsul](https://raw.githubusercontent.com/Ramakant2124/readme-ux-kit/main/dividers/animated/unique_effects/divider_data_capsul.svg)](https://github.com/Ramakant2124/Ramakant2124)
 
+[![divider_twin_serpant](https://raw.githubusercontent.com/Ramakant2124/readme-ux-kit/main/assets/dividers/animated/unique_effects/divider_dual_energy_tracks.svg)](https://github.com/Ramakant2124/Ramakant2124)
+
 <h2 align="center">🚀 Languages</h2>
 
 <p align="center">
