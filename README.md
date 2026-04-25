@@ -65,13 +65,25 @@
 <!-- Frameworks & Libraries -->
 <p align="center">
   <strong>Frameworks & Libraries</strong><br/>
-  <img src="https://skillicons.dev/icons?i=django,flask,react,tailwind,bootstrap" />
+  <img src="https://skillicons.dev/icons?i=django,flask,fastapi,react,tailwind,bootstrap,pytorch" />
+</p>
+
+<!-- Data Science / AI Tools -->
+<p align="center">
+  <strong>Data Science & AI</strong><br/>
+  <img src="https://skillicons.dev/icons?i=pandas,numpy,jupyter" />
 </p>
 
 <!-- Tools & Platforms -->
 <p align="center">
   <strong>Tools & Platforms</strong><br/>
   <img src="https://skillicons.dev/icons?i=git,github,vscode,pycharm,idea,notepadplusplus,aws" />
+</p>
+
+<!-- Design -->
+<p align="center">
+  <strong>UI / UX</strong><br/>
+  🎨 UI/UX Design
 </p>
 
 
