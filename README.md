@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Ramakant%20Chaudhari&fontSize=70&animation=twinkling" width="100%" />
 
 
-[![divider_moving_neon_gradient](https://raw.githubusercontent.com/Ramakant2124/readme-ux-kit/main/assets/dividers/animated/unique_effects/divider_data_capsul.svg)](https://github.com/Ramakant2124/Ramakant2124)
+[![divider_arc_reactor](https://raw.githubusercontent.com/Ramakant2124/readme-ux-kit/main/assets/dividers/animated/unique_effects/divider_cyber_cycle.svg)](https://github.com/Ramakant2124/Ramakant2124)
 <h1 align="center"><img src="https://media.tenor.com/5kYwzV2zxxkAAAAM/hello-hey.gif" alt="Hello GIF" height="60" width="60" />    I'm Ramakant Chaudhari</h>
 </p>
 <h2 align="center">A Passionate Python FullStack Developer From India</h2>
@@ -24,7 +24,7 @@
 - 📫 How to reach me **chaudhariramakant754@gmail.com**
   
 
-
+[![divider_twin_serpant](https://raw.githubusercontent.com/Ramakant2124/readme-ux-kit/main/assets/dividers/animated/unique_effects/divider_dual_energy_tracks.svg)](https://github.com/Ramakant2124/Ramakant2124)
 <h2 align="center">🌐 Connect with Me</h2> 
 <p align="center"> <a href="mailto:chaudhariramakant754@gmail.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/gmail-new.png" alt="Gmail" title="Email" width="60" height="60" style="margin: 10px;" /> </a>
 <a href="https://linkedin.com/in/ramakantchaudhari482124" target="_blank"> <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" title="LinkedIn" width="60" height="60" style="margin: 10px;" /> </a>
