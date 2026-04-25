@@ -28,7 +28,7 @@
 
 <p align="center">
   <img 
-    src="https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&width=900&fontSize=100&color=000000&lines=🌐+Connect+with+Me+🌐"
+    src="https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&width=1000&fontSize=120&color=000000&lines=🌐+Connect+with+Me+🌐"
     style="max-width:100%;"
   />
 </p>
