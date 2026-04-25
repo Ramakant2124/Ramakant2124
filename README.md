@@ -57,34 +57,16 @@
 <h2 align="center">🚀 Languages & Tools</h2>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,python,django,mysql,sqlite,aws,git,react" />
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&width=500&lines=Full+Stack+Developer;Learning+Every+Day+🔥;Building+Real+Projects+🚀" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,python,django,mysql,sqlite,aws,git,react,node.js" />
 </p>
 
 
 
-<h2 align="center">🚀 Skills</h2>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html" width="60"/>
-  <img src="https://skillicons.dev/icons?i=css" width="60"/>
-  <img src="https://skillicons.dev/icons?i=js" width="60"/>
-</p>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python" width="60"/>
-  <img src="https://skillicons.dev/icons?i=django" width="60"/>
-</p>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react" width="60"/>
-</p>
 
 
-<h2 align="center">🚀 Skills</h2>
+
+
+
 
 
 <br>
