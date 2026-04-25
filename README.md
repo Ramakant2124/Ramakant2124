@@ -19,13 +19,15 @@
 
 [![divider_moving_neon_gradient](https://raw.githubusercontent.com/Ramakant2124/readme-ux-kit/main/assets/dividers/animated/unique_effects/divider_cyber_cycle_mirrored.svg)](https://github.com/Ramakant2124/Ramakant2124)
 
+[![divider_sliding_segments](https://raw.githubusercontent.com/Ramakant2124/readme-ux-kit/main/dividers/animated/lines/divider_sliding_segments.svg)](https://github.com/Ramakant2124/Ramakant2124)
+
 - 🔭 **Portfolio Website** http://stately-paletas-154e38.netlify.app
 
 - 🌱 I’m currently learning **Django Framework and React Framework**
 
 - 📫 How to reach me **chaudhariramakant754@gmail.com**
   
-
+[![divider_sliding_segments](https://raw.githubusercontent.com/Ramakant2124/readme-ux-kit/main/dividers/animated/lines/divider_sliding_segments.svg)](https://github.com/Ramakant2124/Ramakant2124)
 
 
 <h2 align="center">🌐 Connect with Me 🌐</h2>
@@ -107,7 +109,7 @@ Thank you for taking the time to explore my work and projects. Your interest is 
   <img src="https://media.tenor.com/s62iXGOChw8AAAAM/thanks-thanks-alot.gif" alt="Thanks a lot GIF" />
 </p>
 
-[![divider_data_capsul](https://raw.githubusercontent.com/Ramakant2124/readme-ux-kit/main/dividers/animated/unique_effects/divider_data_capsul.svg)](https://github.com/Ramakant2124/readme-ux-kit)
+[![divider_data_capsul](https://raw.githubusercontent.com/Ramakant2124/readme-ux-kit/main/dividers/animated/unique_effects/divider_data_capsul.svg)](https://github.com/Ramakant2124/Ramakant2124)
 
 <img 
   src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"
