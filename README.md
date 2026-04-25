@@ -57,7 +57,7 @@
 <h2 align="center">🚀 Languages & Tools</h2>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,python,django,mysql,sqlite,aws,git,react,node.js" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,python,django,mysql,sqlite,aws,git,react,nodejs,oracle,vscode,idea" />
 </p>
 
 
