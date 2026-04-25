@@ -1,6 +1,6 @@
 ![Picsart_25-07-12_11-34-48-028](https://github.com/user-attachments/assets/7035e5f9-399d-43a9-8d24-311dc708868d)
 
-
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4FACFE,100:00F2FE&height=220&section=header&text=Ramakant%20Chaudhari`&fontSize=45&fontColor=ffffff"/>
 
 
 
@@ -103,7 +103,7 @@ Thank you for taking the time to explore my work and projects. Your interest is 
 <body style="text-align:center; font-family: Arial;">
 
   <!-- Banner -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4FACFE,100:00F2FE&height=220&section=header&text=Ramakant%20Chaudhari`&fontSize=45&fontColor=ffffff"/>
+
 
  
 </body>
