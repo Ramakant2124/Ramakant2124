@@ -2,12 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Ramakant%20Chaudhari&fontSize=70&animation=twinkling" width="100%" />
 
 
-
-
-
-
-_____________________________________________________________________________________________________________________________________________________________________________________________________________________
-
+[![divider_moving_neon_gradient](https://raw.githubusercontent.com/Ramakant2124/readme-ux-kit/main/assets/dividers/animated/unique_effects/divider_data_capsul.svg)](https://github.com/Ramakant2124/Ramakant2124)
 <h1 align="center"><img src="https://media.tenor.com/5kYwzV2zxxkAAAAM/hello-hey.gif" alt="Hello GIF" height="60" width="60" />    I'm Ramakant Chaudhari</h>
 </p>
 <h2 align="center">A Passionate Python FullStack Developer From India</h2>
