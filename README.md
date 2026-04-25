@@ -94,6 +94,7 @@
 
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ramakant2124&show_icons=true&locale=en&layout=compact" alt="ramakant2124" /></p><br></br>
 
+[![divider_moving_neon_gradient](https://raw.githubusercontent.com/Ramakant2124/readme-ux-kit/main/assets/dividers/animated/unique_effects/divider_circuit_pulse_bar.svg)](https://github.com/Ramakant2124/Ramakant2124)
 
 
 
@@ -103,18 +104,15 @@ Thank you for taking the time to explore my work and projects. Your interest is 
 <p align="center">
   <img src="https://media.tenor.com/s62iXGOChw8AAAAM/thanks-thanks-alot.gif" alt="Thanks a lot GIF" />
 </p>
+[![divider_moving_neon_gradient](https://raw.githubusercontent.com/Ramakant2124/readme-ux-kit/main/assets/dividers/animated/unique_effects/divider_data_capsul.svg)](https://github.com/Ramakant2124/Ramakant2124)
 <img 
   src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"
   width="100%"
 />
 
 
-[![divider_arc_reactor](https://raw.githubusercontent.com/Ramakant2124/readme-ux-kit/main/assets/dividers/animated/unique_effects/divider_cyber_cycle.svg)](https://github.com/Ramakant2124/Ramakant2124)
 
-[![divider_twin_serpant](https://raw.githubusercontent.com/Ramakant2124/readme-ux-kit/main/assets/dividers/animated/unique_effects/divider_dual_energy_tracks.svg)](https://github.com/Ramakant2124/Ramakant2124)
 
-[![divider_moving_neon_gradient](https://raw.githubusercontent.com/Ramakant2124/readme-ux-kit/main/assets/dividers/animated/unique_effects/divider_cyber_cycle_mirrored.svg)](https://github.com/Ramakant2124/Ramakant2124)
 
-[![divider_moving_neon_gradient](https://raw.githubusercontent.com/Ramakant2124/readme-ux-kit/main/assets/dividers/animated/unique_effects/divider_data_capsul.svg)](https://github.com/Ramakant2124/Ramakant2124)
 
-[![divider_moving_neon_gradient](https://raw.githubusercontent.com/Ramakant2124/readme-ux-kit/main/assets/dividers/animated/unique_effects/divider_circuit_pulse_bar.svg)](https://github.com/Ramakant2124/Ramakant2124)
+
