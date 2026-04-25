@@ -59,22 +59,20 @@
 <!-- Languages -->
 <p align="center">
   <strong>Languages</strong><br/>
-  <img src="https://skillicons.dev/icons?i=html,css,js,python,mysql,sqlite,oracle" />
+  <img src="https://skillicons.dev/icons?i=python,js,ts,html,css,sql" />
 </p>
 
-<!-- Frameworks / Libraries -->
+<!-- Frameworks & Libraries -->
 <p align="center">
   <strong>Frameworks & Libraries</strong><br/>
-  <img src="https://skillicons.dev/icons?i=bootstrap,django,react,nodejs" />
+  <img src="https://skillicons.dev/icons?i=django,flask,react,tailwind,bootstrap" />
 </p>
 
-<!-- Tools -->
+<!-- Tools & Platforms -->
 <p align="center">
-  <strong>Tools</strong><br/>
-  <img src="https://skillicons.dev/icons?i=git,aws,vscode,idea" />
+  <strong>Tools & Platforms</strong><br/>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,pycharm,idea,notepadplusplus,aws" />
 </p>
-
-
 
 
 
