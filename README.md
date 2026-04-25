@@ -98,25 +98,14 @@ Thank you for taking the time to explore my work and projects. Your interest is 
 <html lang="en">
 <head>
   <meta charset="UTF-8">
-  <title>README Preview</title>
+
 </head>
 <body style="text-align:center; font-family: Arial;">
 
   <!-- Banner -->
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4FACFE,100:00F2FE&height=220&section=header&text=Hirad%20Emamialagha&fontSize=45&fontColor=ffffff"/>
 
-  <h2>👋 Hey There!, I am Hirad Emamialagha</h2>
-
-  <p><b>Lead ML Engineer building scalable AI systems, MLOps platforms, and distributed ML infrastructure</b></p>
-
-  <h2 style="color:#4FACFE;">Building ML Infrastructure</h2>
-
-  <!-- Illustration -->
-  <img src="https://stories.freepik.com/api/vectors/programming/amico/render?color=primary&background=transparent" width="400"/>
-
-  <h3>Tech Stack</h3>
-  <img src="https://skillicons.dev/icons?i=python,js,docker,kubernetes,aws,gcp,tensorflow,pytorch"/>
-
+ 
 </body>
 </html>
 
