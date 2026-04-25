@@ -56,10 +56,23 @@
 
 <h2 align="center">🚀 Languages & Tools</h2>
 
+<!-- Languages -->
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,python,django,mysql,sqlite,aws,git,react,nodejs,oracle,vscode,idea" />
+  <strong>Languages</strong><br/>
+  <img src="https://skillicons.dev/icons?i=html,css,js,python,mysql,sqlite,oracle" />
 </p>
 
+<!-- Frameworks / Libraries -->
+<p align="center">
+  <strong>Frameworks & Libraries</strong><br/>
+  <img src="https://skillicons.dev/icons?i=bootstrap,django,react,nodejs" />
+</p>
+
+<!-- Tools -->
+<p align="center">
+  <strong>Tools</strong><br/>
+  <img src="https://skillicons.dev/icons?i=git,aws,vscode,idea" />
+</p>
 
 
 
