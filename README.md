@@ -118,6 +118,16 @@ Thank you for taking the time to explore my work and projects. Your interest is 
 
 
 
+<p align="center">
 
+  <a href="#">
+    <img src="https://img.shields.io/badge/Theme-Light_Mode-yellow?style=for-the-badge&logo=github" />
+  </a>
+
+  <a href="#">
+    <img src="https://img.shields.io/badge/Theme-Dark_Mode-black?style=for-the-badge&logo=github" />
+  </a>
+
+</p>
 
 
