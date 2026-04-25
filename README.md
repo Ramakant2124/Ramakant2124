@@ -100,5 +100,6 @@ Thank you for taking the time to explore my work and projects. Your interest is 
 </p>
 <img 
   src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"
+  width="100%"
 />
 
