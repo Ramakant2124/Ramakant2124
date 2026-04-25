@@ -102,4 +102,4 @@ Thank you for taking the time to explore my work and projects. Your interest is 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:AED6F1,100:76D7C4&height=85&section=header" width="100%"/>
 </p>
-
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6FA8DC,100:5BC0DE&height=80&section=footer" width="100%"/>
