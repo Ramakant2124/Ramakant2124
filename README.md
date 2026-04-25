@@ -26,13 +26,7 @@
 [![divider_moving_neon_gradient](https://raw.githubusercontent.com/Ramakant2124/readme-ux-kit/main/assets/dividers/animated/unique_effects/divider_cyber_cycle_mirrored.svg)](https://github.com/Ramakant2124/Ramakant2124)
 
 
-<p align="center">
-  <img 
-    src="https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&width=1000&fontSize=120&color=000000&lines=🌐+Connect+with+Me+🌐"
-    style="max-width:100%;"
-  />
-</p>
-<h2 align="center">🌐 Connect with Me</h2>
+<h2 align="center">🌐 Connect with Me 🌐</h2>
 
 <p align="center" style="display: flex; justify-content: center; gap: 15px; flex-wrap: wrap;">
   <a href="mailto:chaudhariramakant754@gmail.com" target="_blank">
