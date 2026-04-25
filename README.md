@@ -14,9 +14,10 @@ ________________________________________________________________________________
 
 <p align="center">
   <img 
-    src="https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&width=500&lines=Jr.+Software+Engineer+💻;Python+Full+Stack+Developer;UI+UX+Web+Developer+📱;Building+Real+Projects+🚀"
+    src="https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&width=900&fontSize=45&lines=Jr.+Software+Engineer+💻;Python+Full+Stack+Developer;UI+UX+Web+Developer+📱;Building+Real+Projects+🚀"
     style="max-width:100%;"
   />
+</p>
 </p>
 <p align="center">I'm a passionate Python Django Developer with a strong foundation in backend development and a focus on building scalable, maintainable web applications. With a keen interest in clean code practices and continuous learning, I strive to deliver high-quality software solutions.</p>
 <p align="center">I'm a passionate HTML & CSS Developer dedicated to crafting responsive, accessible, and visually appealing web experiences. With a keen eye for design and a commitment to clean code, I strive to build websites that are both functional and aesthetically pleasing.</p>
