@@ -24,30 +24,35 @@
 - 📫 How to reach me **chaudhariramakant754@gmail.com**
   
 [![divider_moving_neon_gradient](https://raw.githubusercontent.com/Ramakant2124/readme-ux-kit/main/assets/dividers/animated/unique_effects/divider_cyber_cycle_mirrored.svg)](https://github.com/Ramakant2124/Ramakant2124)
+
+
 <h2 align="center">🌐 Connect with Me</h2>
 
 <p align="center">
   <a href="mailto:chaudhariramakant754@gmail.com" target="_blank">
     <img src="https://img.icons8.com/color/96/gmail-new.png" alt="Gmail" title="Email" width="48" height="48"/>
   </a>
+  <br>
 
   <a href="https://linkedin.com/in/ramakantchaudhari482124" target="_blank">
     <img src="https://img.icons8.com/color/96/linkedin.png" alt="LinkedIn" title="LinkedIn" width="48" height="48"/>
   </a>
+  <br>
 
   <a href="https://instagram.com/er_ramakant_3715" target="_blank">
     <img src="https://img.icons8.com/fluency/96/instagram-new.png" alt="Instagram" title="Instagram" width="48" height="48"/>
   </a>
+  <br>
 
   <a href="https://fb.com/ramakant.chaudhari.7547" target="_blank">
     <img src="https://img.icons8.com/color/96/facebook-new.png" alt="Facebook" title="Facebook" width="48" height="48"/>
   </a>
+  <br>
 
   <a href="https://github.com/Ramakant2124" target="_blank">
     <img src="https://img.icons8.com/ios-glyphs/96/github.png" alt="GitHub" title="GitHub" width="48" height="48"/>
   </a>
 </p>
-
 <br></br>
   
 
