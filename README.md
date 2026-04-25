@@ -68,7 +68,7 @@
 </p>
 </marquee>
 
-    <h2 align="center">🧩 Frameworks & Libraries</h2>
+<h2 align="center">🧩 Frameworks & Libraries</h2>
 <marquee direction="left">
 <p align="center">
   <img src="https://skillicons.dev/icons?i=django,flask,fastapi,react,tailwind,bootstrap,pytorch" />
